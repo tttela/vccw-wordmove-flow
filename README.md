@@ -35,5 +35,4 @@ Xserverの場合はこちらを参考
 [VCCW+WordMoveでエックスサーバーとローカル環境を同期する | Show-web](http://show-web.jp/2015/03/31/vccw-wordmove%E3%81%A7%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%81%A8%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E7%92%B0%E5%A2%83%E5%90%8C%E6%9C%9F/)
 
 `$ wordmove push --all`
-
 ステージングに反映されました
