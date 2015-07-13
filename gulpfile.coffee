@@ -4,7 +4,7 @@ mainBowerFiles = require 'main-bower-files'
 $ = do require 'gulp-load-plugins'
 
 sources =
-  url: 'local.ace.com'
+  url: 'local.com' #local
   themeDir: './www/wordpress/wp-content/themes/'
   themeName: '' #wp theme name
 
