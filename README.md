@@ -4,8 +4,8 @@ vccw,gulp,wordmoveでローカル本番環境を同期するメモ<br>
 まずはこのリポジトリをclone<br>
 `$ git clone https://github.com/tttela/vccw-wordmove-flow.git`
 ## vccwをここからclone
-先ほどのcloneした中身は1階層上にして今からcloneするものと同階層にしておく
-`$ git clone https://github.com/miya0001/vccw.git`
+先ほどのcloneした中身は1階層上にして今からcloneするものと同階層にしておく<br>
+`$ git clone https://github.com/miya0001/vccw.git`<br>
 で、この中身も1階層上にしておく。この辺りのフローなにか良い方法があればいいな…
 ## vagrantる
 ### site.ymlの設定を変更
