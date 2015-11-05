@@ -4,14 +4,12 @@ vccw,gulp,wordmoveでローカル本番環境を同期するメモ<br>
 まずはこのリポジトリをclone<br>
 `$ git clone https://github.com/tttela/vccw-wordmove-flow.git`
 ## vccwをここからclone
+先ほどのcloneした中身は1階層上にして今からcloneするものと同階層にしておく
 `$ git clone https://github.com/miya0001/vccw.git`
 ## vagrantる
 ### site.ymlの設定を変更
-site.ymlの設定でtheme名とホスト名を変更してないと後で面倒くさい<br>
+site.ymlの設定でホスト名を変更してないと後で面倒くさい<br>
 (またprovisionするハメになる)
-### WPオリジナルテーマのディレクトリ設置
-先に作っておかないとupする時に怒られる<br>
-テーマデータは適当に入れておく<br>
 
 `$ vagrant up`<br>
 立ち上げる
