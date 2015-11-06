@@ -1,4 +1,4 @@
- local:
+local:
   vhost: "http://local.com" #local
   wordpress_path: "/var/www/wordpress"
 
